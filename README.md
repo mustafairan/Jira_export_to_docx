@@ -1,5 +1,5 @@
 
-A script to turn jira export to docx
+A script to turn jira xlsx export to docx using docxtpl
 
 To-Dos
 image support
